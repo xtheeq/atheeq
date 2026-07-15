@@ -1,0 +1,11 @@
+{
+  "name": "atheeq",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "vite": "catalog:",
+    "vite-plus": "catalog:"
+  },
+  "packageManager": "pnpm@11.13.0"
+}
